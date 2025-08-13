@@ -23,7 +23,7 @@ This is the zoomed-in image of current section we're working on:
 
 If you can't use BlueMarble, use this image as a reference.
 
-Working on this part is not mandatory at all. You may freely work on other parts of the chart.
+Working on this part is **not mandatory at all**. You may freely work on other parts of the chart.
 
 ## Setting BlueMarble
 
