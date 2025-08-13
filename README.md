@@ -67,5 +67,10 @@ Currently, the bottom two rows are occupied by a different art. Leave the bottom
 
 ### Jacket
 
-- [Linked to the Template Image](./joyeuse_jacket_plan.png)
+- [Link to the Template Image](./joyeuse_jacket_plan.png)
 - Blue Marble Coordinates: **1048 740 161 749**
+
+### Logo
+
+- [Link to the Template Image](./sdvx_logo_plan.png)
+- Blue Marble Coordinates: **1048 740 159 724**
