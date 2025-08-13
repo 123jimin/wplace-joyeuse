@@ -25,7 +25,7 @@ BlueMarble을 사용할 수 없다면, 이 이미지를 참고 해 주세요.
 
 **꼭 이 구간에서만 그려야 하는 건 아닙니다.** 채보의 다른 부분을 자유롭게 작업해도 됩니다.
 
-## BlueMarble 세팅하기
+## BlueMarble 설정하기
 
 [BlueMarble](https://github.com/SwingTheVine/Wplace-BlueMarble)은 wplace 위에 템플릿 이미지를 보여주는 유저스크립트입니다.
 
