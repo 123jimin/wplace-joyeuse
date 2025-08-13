@@ -64,3 +64,8 @@ If you can't use BlueMarble, then here are some easy targets to draw:
 - FX notes with *yellow* border and *gold* fill.
 
 Currently, the bottom two rows are occupied by a different art. Leave the bottom two rows as-is.
+
+### Jacket
+
+- [Linked to the Template Image](./joyeuse_jacket_plan.png)
+- Blue Marble Coordinates: **1048 740 161 749**
