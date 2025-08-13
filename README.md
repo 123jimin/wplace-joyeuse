@@ -39,7 +39,7 @@ The template coordinates for BlueMarble are: **1048 738 86 425**.
 
 You should only use one of 31 default colors to draw the image.
 
-You may draw any part of the image, but for maximal effectiveness, here is a non-mandatory guideline.
+You may draw any part of the image, but for maximal effectiveness, here are non-mandatory guidelines.
 
 - Draw the earlier part of the chart first.
 - Draw notes and outlines of lasers first.
