@@ -15,8 +15,7 @@ Joyeuse, France is located northwest of Marseille, and south-southwest of Lyon.
 
 ## Template
 
-- [Link to the Template Image](./joyeuse_plan.png)
-- [Link to the Template Image (as a zipped image)](./joyeuse_plan.zip)
+- [Link to the Template Image](./joyeuse_merged_plan.png)
 
 ### Zoomed-In
 
@@ -62,15 +61,3 @@ If you can't use BlueMarble, then here are some easy targets to draw:
 - Black outlines of the measure numbers.
 - BT notes with *light gray* border and *white* fill.
 - FX notes with *yellow* border and *gold* fill.
-
-Currently, the bottom two rows are occupied by a different art. Leave the bottom two rows as-is.
-
-### Jacket
-
-- [Link to the Template Image](./joyeuse_jacket_plan.png)
-- Blue Marble Coordinates: **1048 740 161 749**
-
-### Logo
-
-- [Link to the Template Image](./sdvx_logo_plan.png)
-- Blue Marble Coordinates: **1048 740 159 724**
