@@ -12,7 +12,8 @@ Joyeuse, France is located northwest of Marseille, and south-southwest of Lyon.
 
 ## Reference
 
-This is the full image to draw: (TODO)
+- [Link to Reference Image](./joyeuse_plan.png)
+- [Link to Reference Image (as a zipped image)](./joyeuse_plan.zip)
 
 ### Zoomed-In
 
@@ -35,6 +36,8 @@ On mobile, Firefox is one of browsers that support Tampermonkey.
 
 The template coordinates for BlueMarble are: **1048 738 86 425**.
 
+<img width="268" height="97" alt="image" src="https://github.com/user-attachments/assets/ddbded3c-670d-44e5-9db0-48e991a83f57" />
+
 ## Drawing
 
 You should only use one of 31 default colors to draw the image.
@@ -45,3 +48,5 @@ You may draw any part of the image, but for maximal effectiveness, here are non-
 - Draw notes and outlines of lasers first.
 - When drawing lines, draw them sparsely first.
 - When filling in areas, spray the dots.
+
+Currently, the bottom two rows are occupied by a different art. Leave the bottom two rows as-is.
