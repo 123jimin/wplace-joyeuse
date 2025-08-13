@@ -3,7 +3,7 @@
 > [!NOTE]
 > [한국어 가이드를 보려면 이 링크를 클릭 해 주세요.](./README.ko.md)
 
-This is an ongoing wplace project by [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7a63-8f28-d965e94dbab1) alliance to draw a part of *Joyeuse VVD*, an infamous Sound Voltex chart, above *Joyeuse, France*.
+This is an ongoing wplace project by [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7a63-8f28-d965e94dbab1) alliance to draw a part of [Joyeuse VVD](https://youtu.be/g8KqV90aeg8?t=26s), an infamous Sound Voltex chart, above *Joyeuse, France*.
 
 <https://wplace.live/?lat=44.48427938791829&lng=4.241337559277344&zoom=12.923648022597831>
 
