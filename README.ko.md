@@ -1,7 +1,7 @@
 # Joyeuse 그리기 프로젝트
 
 > [!NOTE]
-> [The English guide is available at here.](./README.ko.md)
+> [The English guide is available at here.](./README.md)
 
 이 프로젝트는 프랑스의 코뮌 Joyeuse의 위에 악명 높은 사볼 채보 **Joyeuse VVD**를 그리는, [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7a63-8f28-d965e94dbab1) alliance에서 진행 중인 wplace 프로젝트입니다.
 
