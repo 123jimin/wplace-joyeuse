@@ -14,6 +14,14 @@ Here is the instruction on how you can help drawing Joyeuse.
 
 ## Reference
 
+This is the image to install: (TODO)
+
+### Zoomed-In
+
+This is the zoomed-in image of current section we're working on: (TODO)
+
+If you can't use BlueMarble, use this image to draw instead.
+
 ## Setting BlueMarble
 
 [BlueMarble](https://github.com/SwingTheVine/Wplace-BlueMarble) is a userscript for overlaying template images on wplace.
@@ -24,6 +32,8 @@ Follow the installation guide written on there, but for one-click-installing the
 2. Click the title of the latest release.
 3. Scroll down. Under "Assets", click `BlueMarble.user.js`.
 4. If Tampermonkey has been installed correctly, then you should be greeted with the installation page.
+
+On mobile, Firefox is one of browsers that support Tampermonkey.
 
 The template coordinates for BlueMarble are: **1048 738 86 425**.
 
