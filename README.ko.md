@@ -42,7 +42,7 @@ BlueMarble을 사용할 수 없다면, 이 이미지를 참고 해 주세요.
 
 모바일에서는 파이어폭스를 사용하면 유저스크립트를 사용할 수 있습니다.
 
-BlueMarble 템플릿 좌표는 **1048 738 86 425** 입니다. 위의 이미지와 이 좌표를 BlueMarble에 세팅하고, "Create" 버튼을 눌러 주세요.
+BlueMarble 템플릿 좌표는 **1048 738 86 425** 입니다. 템플릿 이미지와 이 좌표를 이용해 BlueMarble를 다음과 같이 설정하고, "Create" 버튼을 눌러 주세요.
 
 <img width="268" height="97" alt="image" src="https://github.com/user-attachments/assets/ddbded3c-670d-44e5-9db0-48e991a83f57" />
 
