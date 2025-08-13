@@ -58,10 +58,9 @@ You may draw any part of the image, but for maximal effectiveness, here are non-
 
 If you can't use BlueMarble, then here are some easy targets to draw:
 
-- Border of the image, which is *black*.
+- Border and black margin of the image, which is *black*.
 - Black outlines of the measure numbers.
-- Black margins of the chart.
-- BT notes, which are *light gray* (border) and *white* (fill).
-- FX notes, which are *yellow* (border) and *gold* (fill).
+- BT notes with *light gray* border and *white* fill.
+- FX notes with *yellow* border and *gold* fill.
 
 Currently, the bottom two rows are occupied by a different art. Leave the bottom two rows as-is.
