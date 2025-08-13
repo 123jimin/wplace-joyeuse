@@ -1,0 +1,60 @@
+# Joyeuse 그리기 프로젝트
+
+이 프로젝트는 프랑스의 코뮌 Joyeuse의 위에 악명 높은 사볼 채보 **Joyeuse VVD**를 그리는, [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7a63-8f28-d965e94dbab1) alliance에서 진행 중인 wplace 프로젝트입니다.
+
+<https://wplace.live/?lat=44.48427938791829&lng=4.241337559277344&zoom=12.923648022597831>
+
+<img width="373" height="466" alt="image" src="https://github.com/user-attachments/assets/da4fc31a-d617-4179-9744-a093c07d2fb4" />
+
+Joyeuse 코뮌은 마르세유의 북서쪽, 리옹의 남남서쪽에 위치합니다.
+
+<img width="254" height="265" alt="image" src="https://github.com/user-attachments/assets/0a8c1790-4e15-4b73-b936-d69e057779e1" />
+
+## 템플릿 이미지
+
+- [템플릿 이미지](./joyeuse_plan.png)
+- [템플릿 이미지 (ZIP 파일로 압축)](./joyeuse_plan.zip)
+
+### 확대 이미지
+
+현재 작업 중인 구간의 이미지입니다.
+
+<img width="963" height="992" alt="image" src="https://github.com/user-attachments/assets/3cacfeed-8fff-4302-abc3-cbb4df317691" />
+
+BlueMarble을 사용할 수 없다면, 이 이미지를 참고 해 주세요.
+
+**꼭 이 구간에서만 그려야 하는 건 아닙니다.** 채보의 다른 부분을 자유롭게 작업해도 됩니다.
+
+## BlueMarble 세팅하기
+
+[BlueMarble](https://github.com/SwingTheVine/Wplace-BlueMarble)은 wplace 위에 템플릿 이미지를 보여주는 유저스크립트입니다.
+
+설치 방법은 다음과 같습니다. BlueMarble에서 제공하는 설치 방법과 거의 동일하지만, 설치 할 스크립트의 경로가 다릅니다.
+
+1. TamperMonkey를 설치합니다.
+    - 구글 크롬: [이 확장 기능](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)을 설치합니다.
+      - 확장 기능을 설치한 뒤, 확장 기능 아이콘 우클릭 -> "확장 프로그램 관리" -> 우측 위 "개발자 모드" 활성화 -> 옵션 중 "사용자 스크립트 허용" 활성화
+    - 파이어폭스: [이 플러그인](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)을 설치합니다.
+2. BlueMarble의 [Releases](https://github.com/SwingTheVine/Wplace-BlueMarble/releases) 페이지로 이동합니다.
+3. 제일 위에 있는 릴리즈의 제목을 클릭합니다.
+4. 아래로 스크롤 해, "Assets"에서 `BlueMarble.user.js`를 클릭합니다.
+5. Tampermonkey가 제대로 설치되어 있다면 설치 페이지가 표시됩니다. 스크립트를 설치 해 주세요.
+
+모바일에서는 파이어폭스를 사용하면 유저스크립트를 사용할 수 있습니다.
+
+BlueMarble 템플릿 좌표는 **1048 738 86 425** 입니다. 위의 이미지와 이 좌표를 BlueMarble에 세팅하고, "Create" 버튼을 눌러 주세요.
+
+<img width="268" height="97" alt="image" src="https://github.com/user-attachments/assets/ddbded3c-670d-44e5-9db0-48e991a83f57" />
+
+## 그리기 가이드
+
+이미지를 그릴 때에는 **기본 제공되는 31가지 색상**만 사용 해 주세요.
+
+그리는 순서는 자유지만, 더 효과적으로 그리기 위한 팁은 다음과 같습니다. (필수 아님)
+
+- 채보의 아래쪽 부분부터 그립니다.
+- 노트와 레이저의 윤곽선부터 그립니다.
+- 선을 새로 그릴 때는 듬성듬성 찍어 그립니다.
+- 면을 채울 때는 점을 흩뿌리듯이 채워 넣습니다.
+
+현재 맨 아래 두 줄은 다른 그림이 차지하고 있습니다. **맨 아래 두 줄은 그대로 놔둬 주세요.**
