@@ -17,9 +17,13 @@ Joyeuse, France is located northwest of Marseille, and south-southwest of Lyon.
 
 ### Zoomed-In
 
-This is the zoomed-in image of current section we're working on: (TODO)
+This is the zoomed-in image of current section we're working on:
 
-If you can't use BlueMarble, use this image to draw instead.
+<img width="963" height="992" alt="image" src="https://github.com/user-attachments/assets/3cacfeed-8fff-4302-abc3-cbb4df317691" />
+
+If you can't use BlueMarble, use this image as a reference.
+
+Working on this part is not mandatory at all. You may freely work on other parts of the chart.
 
 ## Setting BlueMarble
 
