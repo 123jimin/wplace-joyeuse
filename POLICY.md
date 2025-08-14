@@ -27,3 +27,7 @@ These are our policies:
 | Not Local | Margins Only | We may attempt to remove it, but "not aggressively". |
 | Local | A Lot | We may attempt removing it, but we should not be aggressive. We should attempt negotiations first. |
 | Not Local | A Lot | We may attempt removing it, and we may be aggressive if the other side is aggressively drawing theirs. |
+
+In case of conflict, try contacting the other side via Discord.
+
+[This file](./CONFLICT.md) has been written to help resolving the conflict.
