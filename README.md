@@ -20,6 +20,10 @@ For convenience, try installing and using BlueMarble as described in a later sec
 
 The coordinates for BlueMarble are: **1048 738 86 425**. 
 
+### Known Issues
+
+- Measure number 22 from template is ugly and needs to be fixed.
+
 ### Zoomed-In Views
 
 [This folder](./doc/zoom-in/) contains several zoomed-in views of the sections we're working on.
