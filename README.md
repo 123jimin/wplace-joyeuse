@@ -23,6 +23,7 @@ The coordinates for BlueMarble are: **1048 738 86 425**.
 ### Known Issues
 
 - Measure number 22 from template is ugly and needs to be fixed.
+- I'm currently brainstorming what to do with *la crotte* and *le rasis*. It would not be fun if we covered the names with boring black pixels.
 
 ### Zoomed-In Views
 
