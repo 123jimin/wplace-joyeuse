@@ -23,6 +23,7 @@ These are our policies:
 | Type of Artwork | Amount of Intersection | Policy |
 |-----------------|------------------------|--------|
 | Any | None | We have no problem with it, even when it "touches" our project. |
+| Any | Inside the Hole (near bottom) | We have no problem with it. The hole has been intentially created for others to draw within it. |
 | Local | Margins Only | We will very likely not attempt to remove it. Even when we do, we should attempt negotiations first, and should not be aggressive. |
 | Not Local | Margins Only | We may attempt to remove it, but "not aggressively". |
 | Local | A Lot | We may attempt removing it, but we should not be aggressive. We should attempt negotiations first. |
