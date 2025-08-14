@@ -9,6 +9,9 @@ This is an ongoing wplace project by [Sound Voltex](https://wplace.live/join?id=
 
 ![Birds-eye View Image](./doc/main.png)
 
+> [!WARNING]
+> The signage right below the chart is **not** part of the project.
+
 ## Template
 
 Use [joyeuse_merged_plan.png](./joyeuse_merged_plan.png) as the template image.
