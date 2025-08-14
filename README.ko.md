@@ -3,30 +3,26 @@
 > [!NOTE]
 > [The English guide is available at here.](./README.md)
 
-이 프로젝트는 프랑스의 코뮌 Joyeuse의 위에 악명 높은 사볼 채보 **Joyeuse VVD**를 그리는, [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7a63-8f28-d965e94dbab1) alliance에서 진행 중인 wplace 프로젝트입니다.
+이 프로젝트는 프랑스의 코뮌 Joyeuse의 북쪽에 악명 높은 사볼 채보 **Joyeuse VVD**를 그리는, [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7a63-8f28-d965e94dbab1) alliance에서 진행 중인 wplace 프로젝트입니다.
 
 <https://wplace.live/?lat=44.48427938791829&lng=4.241337559277344&zoom=12.923648022597831>
 
-<img width="373" height="466" alt="image" src="https://github.com/user-attachments/assets/da4fc31a-d617-4179-9744-a093c07d2fb4" />
-
-Joyeuse 코뮌은 마르세유의 북서쪽, 리옹의 남남서쪽에 위치합니다.
-
-<img width="254" height="265" alt="image" src="https://github.com/user-attachments/assets/0a8c1790-4e15-4b73-b936-d69e057779e1" />
+![조감도](./doc/main.png)
 
 ## 템플릿 이미지
 
-- [템플릿 이미지](./joyeuse_plan.png)
-- [템플릿 이미지 (ZIP 파일로 압축)](./joyeuse_plan.zip)
+[joyeuse_merged_plan.png](./joyeuse_merged_plan.png) 파일을 템플릿 이미지로 사용 해 주세요.
 
-### 확대 이미지
+이 문서의 뒷부분에 설명되어 있는 대로 BlueMarble을 설치하고 이용하면 더 편리하게 템플릿을 이용할 수 있습니다.
 
-현재 작업 중인 구간의 이미지입니다.
+BlueMarble용 좌표는 다음과 같습니다: **1048 738 86 425**.
 
-<img width="963" height="992" alt="image" src="https://github.com/user-attachments/assets/3cacfeed-8fff-4302-abc3-cbb4df317691" />
+### 대축척지도
 
-BlueMarble을 사용할 수 없다면, 이 이미지를 참고 해 주세요.
+[이 폴더](./doc/zoom-in/)에는 현재 작업 중인 구간을 확대해 본 이미지들이 있습니다.
+BlueMarble을 사용할 수 없다면, 저 이미지들을 레퍼런스로 삼아 주세요.
 
-**꼭 이 구간에서만 그려야 하는 건 아닙니다.** 채보의 다른 부분을 자유롭게 작업해도 됩니다.
+**꼭 저 부분에서만 작업하라는 뜻은 아닙니다.** 다른 부분을 자유롭게 작업해도 됩니다.
 
 ## BlueMarble 설정하기
 
@@ -45,9 +41,9 @@ BlueMarble을 사용할 수 없다면, 이 이미지를 참고 해 주세요.
 
 모바일에서는 파이어폭스를 사용하면 유저스크립트를 사용할 수 있습니다.
 
-BlueMarble 템플릿 좌표는 **1048 738 86 425** 입니다. 템플릿 이미지와 이 좌표를 이용해 BlueMarble를 다음과 같이 설정하고, "Create" 버튼을 눌러 주세요.
+앞서 언급한 템플릿 이미지와 좌표를 BlueMarble를 다음과 같이 설정한 다음 "Create" 버튼을 누르면 템플릿이 지도 위에 표시됩니다.
 
-<img width="268" height="97" alt="image" src="https://github.com/user-attachments/assets/ddbded3c-670d-44e5-9db0-48e991a83f57" />
+![BlueMarble 설정](./doc/bluemarble.png)
 
 ## 그리기 가이드
 
@@ -68,3 +64,10 @@ BlueMarble을 쓸 수 없다면, 간단한 부분부터 채워 넣어 주세요.
 - FX 노트는 *yellow* 색 테두리에 속은 *gold* 색 입니다.
 
 현재 맨 아래 두 줄은 다른 그림이 차지하고 있습니다. **맨 아래 두 줄은 그대로 놔둬 주세요.**
+
+## TMI
+
+Joyeuse는 마르세유의 북서쪽, 리옹의 남남서쪽에 위치한 [코뮌](https://namu.wiki/w/%EC%BD%94%EB%AE%8C)입니다.
+위치를 직접 찾으려면 아래 지도를 활용하세요.
+
+![Location of Joyeuse, France](./doc/location.png)

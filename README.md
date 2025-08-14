@@ -7,29 +7,26 @@ This is an ongoing wplace project by [Sound Voltex](https://wplace.live/join?id=
 
 <https://wplace.live/?lat=44.48427938791829&lng=4.241337559277344&zoom=12.923648022597831>
 
-<img width="373" height="466" alt="image" src="https://github.com/user-attachments/assets/da4fc31a-d617-4179-9744-a093c07d2fb4" />
-
-Joyeuse, France is located northwest of Marseille, and south-southwest of Lyon.
-
-<img width="254" height="265" alt="image" src="https://github.com/user-attachments/assets/0a8c1790-4e15-4b73-b936-d69e057779e1" />
+![Birds-eye View Image](./doc/main.png)
 
 ## Template
 
-- [Link to the Template Image](./joyeuse_merged_plan.png)
+Use [joyeuse_merged_plan.png](./joyeuse_merged_plan.png) as the template image.
 
-### Zoomed-In
+For convenience, try installing and using BlueMarble as described in a later section of this document.
 
-This is the zoomed-in image of the current section we're working on:
+The coordinates for BlueMarble are: **1048 738 86 425**. 
 
-<img width="963" height="992" alt="image" src="https://github.com/user-attachments/assets/3cacfeed-8fff-4302-abc3-cbb4df317691" />
+### Zoomed-In Views
 
-If you can't use BlueMarble, use this image as a reference.
+[This folder](./doc/zoom-in/) contains several zoomed-in views of the sections we're working on.
+If you can't use BlueMarble, use these those as references.
 
-Working on this part is **not mandatory**. You may freely work on other parts of the chart.
+Working on those parts are **not mandatory**. You may freely work on other parts of the chart.
 
-## Configuring BlueMarble
+## Using BlueMarble
 
-[BlueMarble](https://github.com/SwingTheVine/Wplace-BlueMarble) is a userscript for overlaying template images on wplace.
+[BlueMarble](https://github.com/SwingTheVine/Wplace-BlueMarble) is a [userscript](https://en.wikipedia.org/wiki/Userscript) for overlaying template images on wplace.
 
 Follow the installation guide written on there, but for one-click-installing the script, **do this instead**:
 
@@ -40,9 +37,9 @@ Follow the installation guide written on there, but for one-click-installing the
 
 On mobile, you may use Firefox to use userscripts.
 
-The template coordinates for BlueMarble are: **1048 738 86 425**. Use the template image and these coordinates to configure BlueMarble like as shown below, then press the "Create" button.
+Use the template image and coordinates as described before to configure BlueMarble, like this, and then click "Create" to show the template image on the map.
 
-<img width="268" height="97" alt="image" src="https://github.com/user-attachments/assets/ddbded3c-670d-44e5-9db0-48e991a83f57" />
+![Configuring BlueMarble](./doc/bluemarble.png)
 
 ## Drawing
 
@@ -50,7 +47,7 @@ You should only use one of 31 default colors to draw the image.
 
 You may draw any part of the image, but for maximal effectiveness, here are non-mandatory guidelines.
 
-- Draw the bottom part of the chart first.
+- Draw lower (southern) parts of the chart first.
 - Draw notes and outlines of lasers first.
 - When drawing new lines, draw them as sparsely dotted lines first.
 - When filling in areas, spray the dots.
@@ -61,3 +58,10 @@ If you can't use BlueMarble, then here are some easy targets to draw:
 - Black outlines of the measure numbers.
 - BT notes with *light gray* border and *white* fill.
 - FX notes with *yellow* border and *gold* fill.
+
+## Extra
+
+Joyeuse, France is a commune located northwest of Marseille, and south-southwest of Lyon.
+Use the following map to locate Joyeuse, France manually.
+
+![Location of Joyeuse, France](./doc/location.png)
