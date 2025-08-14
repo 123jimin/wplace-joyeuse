@@ -1,6 +1,9 @@
 # Let's Draw Joyeuse
 
 > [!NOTE]
+> Si notre projet a perturbé votre dessin, [ce document](./CONFLICT.md) peut aider à résoudre le conflit.
+
+> [!NOTE]
 > [한국어 가이드를 보려면 이 링크를 클릭 해 주세요.](./README.ko.md)
 
 > [!IMPORTANT]

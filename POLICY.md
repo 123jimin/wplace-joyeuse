@@ -1,7 +1,5 @@
 # Our Policies
 
-(TODO: écrire une version française.)
-
 ## Introduction
 
 When I first started the project, I picked a place where it would not overlap existing artworks,
