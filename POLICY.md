@@ -17,7 +17,7 @@ This applies to the *chart* (tall vertical rectangle), the *Joyeuse jacket* (ima
 These are our policies:
 
 - A "local" artwork means that it's something that's significant to the local people (like flags).
-- Margins are 15-pixel wide black areas left and right to the chart.
+- Margins are 15-pixel wide black areas making up the left and right sides of the chart.
 - "Aggressive" means overwriting a significant portion of others' artworks without warning.
 
 | Type of Artwork | Amount of Intersection | Policy |

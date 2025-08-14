@@ -22,7 +22,7 @@ Voici nos options, par défaut:
 
 Remarques:
 
-- "Marge": Des zones noires de 15 pixels de large à gauche et à droite du "Chart".
-- "Chart": Le grand rectangle.
-- "Jacket": Une image carrée près de Joyeuse.
-- "Logo": Le logo au dessus de le "Jacket".
+- « Marge » : Des zones noires de 15 pixels de large constituant les côtés gauche et droit du chart.
+- « Chart » : Le grand rectangle.
+- « Jacket » : Une image carrée près de Joyeuse.
+- « Logo » : Le logo au dessus de le "Jacket".
