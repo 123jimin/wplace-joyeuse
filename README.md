@@ -1,4 +1,4 @@
-# Let's Draw Joyeuse!
+# Let's Draw Joyeuse
 
 > [!NOTE]
 > [한국어 가이드를 보려면 이 링크를 클릭 해 주세요.](./README.ko.md)
@@ -12,17 +12,20 @@ This is an ongoing wplace project by [Sound Voltex](https://wplace.live/join?id=
 > [!WARNING]
 > The signage right below the chart is **not** part of the project.
 
+## Recent Changes
+
+List is written in reverse order; the most recent change is at the top.
+
+- 2025-08-15: Added "torned hole" effect near *la crotte*. The intention is to leave a gap for others to draw in the hole.
+- 2025-08-15: Fixed measure no. "22", and removed regions near *la crotte* and *le rasis* for the time being.
+
 ## Template
 
 Use [joyeuse_merged_plan.png](./joyeuse_merged_plan.png) as the template image.
 
 For convenience, try installing and using BlueMarble as described in a later section of this document.
 
-The coordinates for BlueMarble are: **1048 738 86 425**. 
-
-### Known Issues
-
-- I'm currently brainstorming what to do with *la crotte* and *le rasis*. It would not be fun if we covered the names with boring black pixels.
+The coordinates for BlueMarble are: **1048 738 86 425**.
 
 ### Zoomed-In Views
 
