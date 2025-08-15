@@ -17,6 +17,9 @@ This is an ongoing wplace project by [Sound Voltex](https://wplace.live/join?id=
 
 > [!WARNING]
 > The signage right below the chart is **not** part of the project.
+> It's a typical commune name sign, drawn by French people.
+>
+> To help fighting griefers, we do provide a [template for the sign](./partial/sign.png).
 
 ## Recent Changes
 
