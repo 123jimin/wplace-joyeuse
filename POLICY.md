@@ -31,3 +31,12 @@ These are our policies:
 In case of conflict, try contacting the other side via Discord.
 
 [This file](./CONFLICT.md) has been written to help resolving the conflict.
+
+## Additional Notes
+
+These are tips to reduce misunderstandings.
+
+- Do *not* write text stating that "Joyeuse" is something negative ("bad"/"shitty"/...).
+  - People not knowing SDVX may confuse the text as a blame towards the commune.
+  - Instead, write something like "This **chart** is shitty" / ..., to prevent misunderstanding.
+  - Something like "Joyeuse is 21" / "Joyeuse is too difficult" would be also fine. It's clear that the text is not talking about the commune.
