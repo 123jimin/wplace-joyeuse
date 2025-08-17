@@ -83,6 +83,8 @@ If you can't use BlueMarble, then here are some easy targets to draw:
 
 ## Extra
 
+I sometimes hold [votes](./VOTE.md) on what to do.
+
 Joyeuse, France is a commune located northwest of Marseille, and south-southwest of Lyon.
 Use the following map to locate Joyeuse, France manually.
 
