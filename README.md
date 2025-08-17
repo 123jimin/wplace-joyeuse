@@ -25,6 +25,9 @@ This is an ongoing wplace project by [Sound Voltex](https://wplace.live/join?id=
 
 List is written in reverse order; the most recent change is at the top.
 
+- 2025-05-18: Removed parts of completed margin that is no longer considered "essential".
+  - The goal is to allow other artworks to partially overlap with the margin, without causing BlueMarble overlay to make it annoying.
+  - I will continue removing parts of margin that is already completed.
 - 2025-08-17: Added boundaries around the hole.
 - 2025-08-17: Modified a few pixels around lasers to be more "consistent".
 - 2025-08-16: Shifted Rasis 4 pixels to right, and added some more minor modifications.
