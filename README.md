@@ -25,6 +25,7 @@ This is an ongoing wplace project by [Sound Voltex](https://wplace.live/join?id=
 
 List is written in reverse order; the most recent change is at the top.
 
+- 2025-08-17: Modified a few pixels around lasers to be more "consistent".
 - 2025-08-16: Shifted Rasis 4 pixels to right, and added some more minor modifications.
 - 2025-08-16: Added the pixel art of Rasis next to *le rasis*. **Further changes may happen to the area near her.**
 - 2025-08-16: **Removed the *la crotte* hole**. Reason: it keeps getting filled, and no concensus was made towards keeping the hole.
