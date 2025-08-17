@@ -16,7 +16,7 @@ Voted Yes (2):
 
 Voted No:
 
-`jabashque#1706261 *SmoreJoy#1819212 Bunny#6522102`
+`jabashque#1706261 *SmoreJoy#1819212 Bunny#6522102 Bento#5212400`
 
 ## The Hole (2025-08-15)
 
