@@ -8,13 +8,13 @@ While I am managing the template, as this is a large project involving many peop
 
 > Should we put RGB background as suggested?
 
-Vote currently holding on wplace.
+Verdict: No.
 
 Voted Yes (2):
 
 `JiminP#3276199 w#3531135`
 
-Voted No:
+Voted No (6):
 
 `jabashque#1706261 *SmoreJoy#1819212 Bunny#6522102 Bento#5212400 pnguyen379#113 verlexin#1282152`
 
