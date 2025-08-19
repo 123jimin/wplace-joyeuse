@@ -25,8 +25,10 @@ This is an ongoing wplace project by [Sound Voltex](https://wplace.live/join?id=
 
 List is written in reverse order; the most recent change is at the top.
 
-- 2025-05-18: Modified a few pixels around blue lasers to be more consistent.
-- 2025-05-18: Removed parts of completed margin that is no longer considered "essential".
+- 2025-08-19: Removed all margins. Add impact line for *le rasis*. Added デーレデーレ near デーレデーレ. Fixed inconsistent right laser lane.
+  - This should be "release candidate" for the final result.
+- 2025-08-18: Modified a few pixels around blue lasers to be more consistent.
+- 2025-08-18: Removed parts of completed margin that is no longer considered "essential".
   - The goal is to allow other artworks to partially overlap with the margin, without causing BlueMarble overlay to make it annoying.
   - I will continue removing parts of margin that is already completed.
 - 2025-08-17: Added boundaries around the hole.
