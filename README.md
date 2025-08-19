@@ -9,9 +9,12 @@
 > [!NOTE]
 > [한국어 가이드를 보려면 이 링크를 클릭 해 주세요.](./README.ko.md)
 
-This is an ongoing wplace project by [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7a63-8f28-d965e94dbab1) alliance to draw a part of [Joyeuse VVD](https://youtu.be/g8KqV90aeg8?t=26s), an infamous chart from the rhythm game Sound Voltex, above *Joyeuse, France*.
+This is a wplace the by [Sound Voltex](https://wplace.live/join?id=01989f5c-68ff-7a63-8f28-d965e94dbab1) alliance to draw a part of [Joyeuse VVD](https://youtu.be/g8KqV90aeg8?t=26s), an infamous chart from the rhythm game Sound Voltex, above *Joyeuse, France*.
 
 <https://wplace.live/?lat=44.48427938791829&lng=4.241337559277344&zoom=12.923648022597831>
+
+**The main has been completed at around 2025-08-20 12:30 AM (+09:00)!**
+We're currently filling in secondary artworks.
 
 ![Birds-eye View Image](./doc/main.png)
 
